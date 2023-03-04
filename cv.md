@@ -12,3 +12,16 @@ Motivated guy, who tried few courses in the past and have high desire to improve
 * Webpack
 * GitHub
 * Figma
+## Code Example
+```javascript
+function multiply(a, b){
+  a * b
+}
+```
+## Education
+* The Odin Project (Foundations)
+* Udemy Courses
+## Languages
+* Russian(Native)
+* English(C1-C2 Reading and Listening)
+* Lithuanian(A2)
